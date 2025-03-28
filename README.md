@@ -1,4 +1,4 @@
-# BootcampPythonDeveloper
+# Bootcamp Python Developer
 
 ### Repositório para armazenar análises, estudos e implementações realizadas durante o Bootcamp Python Developer da Suzano em conjunto da DIO, buscando mais conhecimento na área e também contato com outros Devs com intuito de realizar networking e colaboração em novos desafios.
 
@@ -16,6 +16,6 @@
 <br />
 ## Responsáveis
 ![](./assets/DIO.jpg)
-`<br />`
-`<br />`
+<br />
+<br />
 ![](./assets/suzano-logo-8.png)
